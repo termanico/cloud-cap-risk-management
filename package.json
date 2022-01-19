@@ -8,11 +8,11 @@
   "dependencies": {
     "@sap/cds": "^5",
     "express": "^4",
-    "hdb": "^0.18.1"
+    "hdb": "^0.18.1",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
-    "@sap/ux-specification": "^1.84.4",
-    "sqlite3": "^5.0.2"
+    "@sap/ux-specification": "^1.84.4"
   },
   "scripts": {
     "start": "cds run",
